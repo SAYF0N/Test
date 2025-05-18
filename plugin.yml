@@ -1,0 +1,9 @@
+name: MutationsPlugin
+version: 1.0
+main: me.tuusuario.mutations.MutationsPlugin
+api-version: 1.16
+commands:
+  mutate:
+    description: Aplica una mutación
+  mutations:
+    description: Abre el árbol de habilidades
